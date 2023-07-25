@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "FRUIT",
+      "type": ["apple", "banana"]
+    },
+    {
+      "id": 2,
+      "title": "vegetable",
+      "type": ["tomato", "carrot"]
+    },
+    {
+      "id": 3,
+      "title": "snack",
+      "type": ["candy", "chocolate"]
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "john",
+      "age": 20,
+      "hobbies": ["サッカー", "野球"],
+      "premiumAccount": true
+    },
+    {
+      "id": 2,
+      "username": "mike",
+      "age": 17,
+      "hobbies": ["カメラ"],
+      "premiumAccount": false
+    },
+    {
+      "id": 3,
+      "username": "taro",
+      "age": 50,
+      "hobbies": ["筋トレ", "水泳"],
+      "premiumAccount": true
+    },
+    {
+      "id": 9999,
+      "content": "test"
+    }
+  ]
+}
